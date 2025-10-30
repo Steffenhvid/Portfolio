@@ -1,0 +1,39 @@
+.experience-entry {
+  margin-bottom: 2rem;
+}
+
+.experience-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: .3rem;
+}
+
+.experience-meta {
+  color: #666;
+  font-size: 0.95rem;
+  margin-bottom: .5rem;
+}
+
+.experience-description {
+  line-height: 1.6;
+}
+
+.education-entry {
+  margin-bottom: 2rem;
+}
+
+.education-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: .3rem;
+}
+
+.education-meta {
+  color: #666;
+  font-size: 0.95rem;
+  margin-bottom: .5rem;
+}
+
+.education-description {
+  line-height: 1.6;
+}

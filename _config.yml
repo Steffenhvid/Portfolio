@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Steffen Hvid
+tagline:          'Software to make life easier.'
+description:      'A portfolio of Steffen Hvid, software developer.'
+url:              
+baseurl:          /
+
+author:
+  name:           'Steffen Hvid'
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/Steffenhvid/

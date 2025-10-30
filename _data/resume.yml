@@ -1,0 +1,134 @@
+education:
+  - titel: Kandidat i Operations Analyse (Matematik-økonomi)
+    sted: Aarhus Universitet
+    start: 2016-09
+    slut: 2018-10
+    beskrivelse: > 
+      Operationsanalyse, der var mit speciale, har til formål at løse komplicerede problemstillinger, specielt inden for logistik, 
+      planlægning og økonomi. Uddannelsen er forholdsvis åben, og jeg har valgt at tage en computer science vinkel frem for den klassisk 
+      tunge matematiske vinkel. Hvilket betyder jeg har fulgt kurser som Data Warehousing, Algoritmer og Datastrukturer og Machine Learning. 
+  - titel: Bachelor i Matematik-økonomi
+    sted: Aarhus Universitet
+    start: 2013-09
+    slut: 2016-06
+    beskrivelse: > 
+      Fokus på de klassiske discipliner inden for matematik og økonomi. Heriblandt, Matematisk Analyse, Statistik og Sandsynlighed, 
+      Omkostninger og Regnskab, Mikro-/Makro Økonomi og Lineær Programmering. 
+  - titel: Merkonom i Økonomistyring og Erhvervsøkonomi
+    sted: CPH West
+    start: 2008-01
+    slut: 2008-12
+    beskrivelse: Økonomistyring, Erhvervsøkonomi, Erhvervsret ,Statistik
+  - titel: Officersaspirant (Teknisk)
+    sted: Flyvevåbnets førings og operationsstøtteskole, Karup
+    start: 2006
+    slut: 2007
+    beskrivelse: Teamleder, Instruktør, Formidling 
+  - titel: Værnepligt
+    sted: Flyvevåbnets førings og operationsstøtteskole, Karup
+    start: 2006
+    slut: 2006
+    beskrivelse:
+  - titel: Elektroingeniør
+    sted: Danmarks Tekniske Universitet
+    start: 2004
+    slut: 2005
+    beskrivelse:
+  - titel: HHx
+    sted: Handelskolen Sjælland Syd
+    start: 2001
+    slut: 2004
+    beskrivelse:
+experience:
+  - titel: .NET Specialist / Lead Developer
+    location: Aalborg
+    firma: PWT-Group
+    start: 2024-11
+    slut: nuværende
+    beskrivelse: > 
+      I min rolle fungerer jeg både som teknisk specialist og strategisk partner og arbejder tæt sammen med IT-ledelsen. 
+      Jeg har ansvaret for udviklingen af vores data broker (**RabbitMQ/MassTransit**, **C#/.NET**, **ASP.NET** APIs) 
+      og for at sætte retningen i forhold til arkitektur og tekniske beslutninger. Udover at bidrage til kode og systemudvikling driver 
+      jeg procesforbedringer, dokumentationspraksis og CI/CD-opsætning i **GitHub**. Jeg støtter teamet i at definere arbejdsmetoder og 
+      hjælper med at sikre kvalitet og sammenhæng på tværs af udviklingsafdelingen. Derudover spiller jeg en central rolle i større 
+      strategiske projekter såsom opbygningen af et nyt ERP-system og en fremtidig POS-løsning.
+  - titel: Konsulent, .NET udvikler, Scrummaster
+    location: Aalborg
+    firma: Solita A/S
+    start: 2022-11
+    slut: 2024-07
+    beskrivelse: > 
+     Jeg har været en del af et projektteam med varierende fokusområder, hvor alle projekter har været baseret på **.NET**-stacken. 
+     Jeg har arbejdet med **MAUI**, **C#** og **Entity Framework Core** samt udviklet **CI/CD-pipelines i Azure DevOps** og opsat systemer 
+     i **Azure Portal** ved hjælp af **Terraform**. I mit seneste projekt fungerede jeg desuden som Scrum Master – en rolle, 
+     jeg fandt både spændende og udviklende.
+  - titel: Teknisk Projektleder, .NET Udvikler
+    location: Hadsund
+    firma: Intelligent Systems A/S
+    start: 2021-10
+    slut: 2022-06
+    beskrivelse: > 
+      Hos Intelligent Systems A/S var jeg med til at udvikle et MES system. Jeg har haft mulighed for at dykke ned i **C#**, **WPF**, 
+      **RabbitMQ** og **Microsoft SQL**. Jeg fik hurtigt ansvaret for frontend udviklingen, i en teknisk projektleder rolle. Her har jeg styrket 
+      mine kompetencer inden for Sprint Planlægning, Resultat Rapportering, CI/CD og Azure Devops (specielt deres board CLI).
+  - titel: .NET udvikler 
+    location: Risskov, Aarhus
+    firma: Apport Systems A/S
+    start: 2019-12
+    slut: 2020-10
+    beskrivelse: > 
+      Hos Apport Systems A/S var jeg med til at udvikle et WMS system. Jeg har haft mulighed for at dykke ned i **C#**, Windows Forms, 
+      Android (xamarin), **Sql Server** og XML/XSD. Senest var jeg med til at designe og udvikle et produktionsstyrings modul, her fik jeg
+       meget erfaring med Entity Framework Core, WPF og Prism. Jeg har lært en del om, hvordan man arbejder som udvikler i teams.
+        Hvordan man får et produkt til marked, samt fået en del indsigter i forhold til planlægning i en udviklingsafdeling.
+  - titel: Support- og Business Intelligence Konsulent
+    location: Lystrup, Aarhus
+    firma: Inspari A/S
+    start: 2018-10
+    slut: 2019-11
+    beskrivelse: > 
+      Som supportkonsulent, har jeg haft en enorm berøringsflade. Alt fra motorrummet i **SQL Server** til Power-Bi Gateways. 
+      Jeg har fået en masse erfaring med T-SQL, alt fra hvordan man kan strukturere i **Dataflow (ETL)** til **Query optimering** og 
+      udvikling af stored procedures. Jeg har også fået lidt erfaring med C# i form af små web platforme, SSIS script components, 
+      og Power-Bi udvikling.
+  - titel: Junior Konsulent Insights og Analytics (studiejob)
+    location: Aarhus C
+    firma: Creuna A/S (nu Knowit)
+    start: 2017-05
+    slut: 2018-06
+    beskrivelse: > 
+      Jeg var en del af Insights og Analytics, hvor jeg løste ad hoc-opgaver i forhold til vores kunders ønsker og problemstillinger.
+      Alt fra at eksportere data fra kildesystemer til at stage og præsentere det med blandt andet Python Dash og Klipfolio. 
+      Specielt har jeg arbejdet med at gøre store datamængder håndgribelige ved hjælp af MySQL og Python.
+  - titel: Instruktør Matematisk Programmering
+    location: Aarhus C
+    firma: Aarhus Universitet
+    start: 2016-09
+    slut: 2016-12
+    beskrivelse:
+  - titel: Gastronomelev
+    location:
+    firma: Diverse restauranter
+    start: 2010-04
+    slut: 2013-05
+    beskrivelse:
+  - titel: Sabbatår / Udlandsophold
+    location: Tasmanien
+    firma:
+    start: 2009-01
+    slut: 2010-03
+    beskrivelse:
+  - titel: Økonomiassistent 
+    location: København
+    firma: One.com A/S 
+    start: 2007-12
+    slut: 2008-12
+    beskrivelse:
+  - titel: Butiksassistent
+    location: 
+    firma: Diverse butikker
+    start: 2002-01
+    slut: 2008-11
+    beskrivelse:
+
+skills:

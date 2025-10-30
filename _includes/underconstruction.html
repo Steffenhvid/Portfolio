@@ -1,0 +1,68 @@
+<div class="under-construction-card">
+  <h2>🚧 Under Construction</h2>
+  <ul class="status-list">
+    <li><span>Home</span><span class="status progress">In progress</span></li>
+    <li><span>Certifications</span><span class="status done">Done</span></li>
+    <li><span>Erhvervserfaring</span><span class="status done">Done</span></li>
+    <li><span>Uddannelse</span><span class="status done">Done</span></li>
+    <li><span>Code Projects</span><span class="status planned">Planned</span></li>
+    <li><span>Github Repo</span><span class="status done">Done</span></li>
+  </ul>
+  <div class="footer">
+    Updated: October 2025
+  </div>
+</div>
+
+<style>
+.under-construction-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 0.75rem;
+  padding: 1rem 1.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.under-construction-card h2 {
+  margin-top: 0;
+  font-size: 1.25rem;
+  text-align: center;
+}
+
+.status-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+}
+
+.status-list li {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.status-list li:last-child {
+  border-bottom: none;
+}
+
+.status {
+  font-weight: 600;
+  border-radius: 0.5rem;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.status.done { background-color: #d4edda; color: #155724; }
+.status.progress { background-color: #fff3cd; color: #856404; }
+.status.planned { background-color: #f8d7da; color: #721c24; }
+
+.under-construction-card .footer {
+  text-align: center;
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 1rem;
+}
+</style>

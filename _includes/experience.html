@@ -1,0 +1,10 @@
+<div class="experience-entry">
+  <h2 class="experience-title">{{ include.titel }}</h2>
+  <div class="experience-meta">
+    <span class="firma">{{ include.firma }}</span> |
+    <span class="location">{{ include.location }}</span> |
+    <span class="periode">{{ include.start }} – {{ include.slut }}</span>
+  </div>
+  <p class="experience-description">{{ include.beskrivelse | markdownify }}</p>
+</div>
+<hr>
