@@ -2,6 +2,9 @@
 markdown:         kramdown
 highlighter:      pygments
 
+remote_theme: poole/hyde
+plugins:
+  - jekyll-remote-theme
 # Permalinks
 permalink:        pretty
 
