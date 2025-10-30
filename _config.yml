@@ -11,6 +11,7 @@ tagline:          'Software to make life easier.'
 description:      'A portfolio of Steffen Hvid, software developer.'
 url:              
 baseurl:          /
+repository: Steffenhvid/Portfolio
 
 author:
   name:           'Steffen Hvid'
