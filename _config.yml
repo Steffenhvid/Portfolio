@@ -11,9 +11,9 @@ permalink:        pretty
 # Setup
 title:            Steffen Hvid
 tagline:          'Software to make life easier.'
-description:      'A portfolio of Steffen Hvid, software developer.'
-url:              
-baseurl:          /
+description:      'A portfolio of Steffen Hvid, software developer.'             
+url: "https://steffenhvid.github.io"
+baseurl: "/Portfolio"
 repository: Steffenhvid/Portfolio
 
 author:
