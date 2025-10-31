@@ -1,7 +1,7 @@
 <!-- _includes/certification-card.html -->
 <div class="cert-card">
   <div class="cert-card-image-wrapper">
-    <img src="{{ include.image }}" alt="{{ include.title }} logo" class="cert-card-image">
+    <img src="{{ include.image | relative_url }}" alt="{{ include.title }} logo" class="cert-card-image">
   </div>
   <div class="cert-card-content">
     <h3 class="cert-card-title">{{ include.title }}</h3>
